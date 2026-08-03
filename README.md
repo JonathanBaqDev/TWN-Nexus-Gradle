@@ -1,4 +1,4 @@
-# Nexus Repository Manager Installation on Ubuntu
+# Nexus Repository Manager Installation and Gradle Setup
 
 An example of how to install and configure Nexus Repository Manager on an Ubuntu server.
 
